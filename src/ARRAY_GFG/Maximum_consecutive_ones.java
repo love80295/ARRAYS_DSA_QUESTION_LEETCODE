@@ -25,6 +25,5 @@ public class Maximum_consecutive_ones {
         }else{
             System.out.println(count);
         }
-
     }
 }
